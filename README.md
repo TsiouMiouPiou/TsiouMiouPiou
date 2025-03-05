@@ -1,11 +1,10 @@
 # Hi👋 I'm George!   
 
- I am a motivated Software Engineer based in Berlin.
-💻  Started my journey to coding on pandemic and since then I m excited to explore new technologies.
- :trophy:   Currently pursuing a BS.c in Computer Science
-🔍 Looking for opportunities to collaborate with senior developers and expand my knowledge.  
+🎓 I am a motivated Software engineer student based in Berlin.  
+💻 Started my journey to coding during the pandemic and since then, I’m excited to explore new technologies.  
+🔍 Looking for opportunities to collaborate with developers and expand my knowledge. 
 
- ### 🛠️ Tech Stack  
+ ### 🛠️ My Tech Stack  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
