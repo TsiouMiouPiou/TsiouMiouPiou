@@ -1,7 +1,8 @@
 # Hi, I'm George! 👋  
 
 🎓 Studying Computer Science in Berlin  
-💻  I m Passionate about Development and collaborate with others to find a solution  
+💻  Started my journey to coding on pandemic and since then I m commited to
+    always build and learn new technologies. 
 🔍 Looking for opportunities to work on real-world projects  
 
  ### 🛠️ Tech Stack  
