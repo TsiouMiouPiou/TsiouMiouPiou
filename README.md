@@ -1,4 +1,4 @@
-# Hi, I'm George! 👋  
+# Hi👋 I'm George!   
 
 🎓 Studying Computer Science in Berlin  
 💻  Started my journey to coding on pandemic and since then I m commited to
