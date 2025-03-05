@@ -1,9 +1,9 @@
 # Hi👋 I'm George!   
 
-🎓 Studying Computer Science in Berlin  
-💻  Started my journey to coding on pandemic and since then I m commited to
-    always build and learn new technologies. 
-🔍 Looking for opportunities to work on real-world projects  
+ I am a motivated Software Engineer based in Berlin.
+💻  Started my journey to coding on pandemic and since then I m excited to explore new technologies.
+ :trophy:   Currently pursuing a BS.c in Computer Science
+🔍 Looking for opportunities to collaborate with senior developers and expand my knowledge.  
 
  ### 🛠️ Tech Stack  
 <p align="left">
