@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm George! 👋  
 
-<!--
-**TsiouMiouPiou/TsiouMiouPiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studying Computer Science in Berlin  
+💻 Passionate about Web Development & Cybersecurity  
+🔍 Looking for opportunities to work on real-world projects  
+⚡ Fun fact: I have a background in Physiotherapy and love blending tech with health  
 
-Here are some ideas to get you started:
+### 📌 My Projects  
+- 🏋️‍♂️ Personal Physiotherapy Platform  
+- 📊 Habit Tracker (Python)  
+- 🏡 Airbnb Clone (SQL)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always learning and building cool stuff! Feel free to check out my repositories.  
