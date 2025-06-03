@@ -1,8 +1,8 @@
-# Hi👋 I'm George!   
+# Welcome To My GitHub Profile   
 
-🎓 I am a motivated Software engineer student based in Berlin.  
-💻 Started my journey to coding during the pandemic and since then, I’m excited to explore new technologies.  
-🔍 Looking for opportunities to collaborate with developers and expand my knowledge. 
+I am a motivated full stack student based in Berlin.  
+Started my journey to coding during the pandemic and since then, I’m excited to build and explore new technologies.  
+Looking for opportunities to collaborate with developers and expand my knowledge. 
 
  ### 🛠️ My Tech Stack  
 <p align="left">
