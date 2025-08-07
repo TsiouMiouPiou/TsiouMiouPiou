@@ -3,15 +3,12 @@
 A passionate full-stack developer from Greece.  
 
  ## About Me  
- I'm a Software Engineer, focused on full stack technologies by building interactive web applications using MERN stack.  
- Currently I'm running my B.Sc in Computer Science at *International Universicty of Applied Sciences* (until 10.10.2025).
- During my academic journey, I ve earned strong foundation at programming that helped me to build various applications using Javascript, React and Python.   
- 
- 
- 
+ ⚙️ I'm a Software Engineer, focused on full stack technologies by building interactive web applications using MERN stack.    
+ 📚 Currently I'm running my B.Sc in Computer Science at *International Universicty of Applied Sciences* (until 10.10.2025).  
+   
 
  ### 🛠️ My Tech Stack  
- # Frontend
+ #### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -40,6 +37,16 @@ A passionate full-stack developer from Greece.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tsioumioupiou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### 
+
+## 🚀Top Projects
+
+- [🏋️‍♂️ Workout Tracker](https://github.com/TsiouMiouPiou/workout-tracker-mern)
+   A full-stack MERN app to log, track, and manage your workouts easily.
+- [📚 Habit Tracker with Python](https://github.com/TsiouMiouPiou/python-habit-tracker)
+- A Python CLI tool to help build and maintain daily habits through simple tracking.
+- [📚 Python Flashcards](https://github.com/TsiouMiouPiou/python_flashcards)
+- An interactive Python flashcard app for effective learning and memorization.
+
+
 
 
