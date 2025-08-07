@@ -1,6 +1,6 @@
 # Hi 👋, I'm George aka Tsiou!
 
-A passionate full-stack developer from Greece.
+A passionate full-stack developer from Greece.  
 🎓Studies Computer Science at IU International School of Aplied Sciences in Berlin  
 Looking for opportunities to collaborate with developers and expand my knowledge. 
 
