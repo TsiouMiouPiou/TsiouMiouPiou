@@ -1,8 +1,14 @@
 # Hi 👋, I'm George aka Tsiou!
 
 A passionate full-stack developer from Greece.  
-🎓Studies Computer Science at IU International School of Aplied Sciences in Berlin  
-Looking for opportunities to collaborate with developers and expand my knowledge. 
+
+ ## About Me  
+ I'm a Software Engineer, focused on full stack technologies by building interactive web applications using MERN stack.  
+ Currently I'm running my B.Sc in Computer Science at *International Universicty of Applied Sciences* (until 10.10.2025).
+ During my academic journey, I ve earned strong foundation at programming that helped me to build various applications using Javascript, React and Python.   
+ 
+ 
+ 
 
  ### 🛠️ My Tech Stack  
  # Frontend
