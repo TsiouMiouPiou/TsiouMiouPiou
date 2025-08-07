@@ -53,6 +53,14 @@ A passionate full-stack developer from Greece.
   A React-based web application booking appointment system for physiotherapy.
 
 
+## 🤝 Connect with Me
+
+Feel free to reach out! I'm always open to collaborating, chatting about projects, or just saying hi.
+
+- 📧 Email: [g.anastasiou.dev@gmail.com](mailto:g.anastasiou.dev@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/georganastasiou/)  
+
+
 
 
 
