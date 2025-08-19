@@ -1,4 +1,4 @@
-# Hi 👋, I'm George aka Tsiou!
+# Hi 👋, I'm George!
 
 A passionate full-stack developer from Greece.  
 
