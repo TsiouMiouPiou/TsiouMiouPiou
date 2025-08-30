@@ -33,23 +33,23 @@ A passionate full-stack developer from Greece.
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsioumioupiou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tsioumioupiou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=georgioanastasiou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgioanastasiou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
 ## 🚀 Top Projects
 
-- [🏋️‍♂️ Workout Tracker](https://github.com/TsiouMiouPiou/workout-tracker-mern)  
+- [🏋️‍♂️ Workout Tracker](https://github.com/georgioanastasiou/workout-tracker-mern)  
   A full-stack MERN app to log, track, and manage your workouts easily.
 
-- [📚 Habit Tracker with Python](https://github.com/TsiouMiouPiou/python-habit-tracker)  
+- [📚 Habit Tracker with Python](https://github.com/georgioanastasiou/python-habit-tracker)  
   A Python CLI tool to help build and maintain daily habits through simple tracking.
 
 - [📚 Python Flashcards](https://github.com/TsiouMiouPiou/python_flashcards)  
   An interactive Python flashcard app for effective learning and memorization.
 
-- [🩺 Physiotherapy React Web App](https://github.com/TsiouMiouPiou/physio-web-app)  
+- [🩺 Physiotherapy React Web App](https://github.com/georgioanastasiou/physio-web-app)  
   A React-based web application booking appointment system for physiotherapy.
 
 
